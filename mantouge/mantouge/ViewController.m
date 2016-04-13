@@ -19,6 +19,7 @@
     NSLog(@"Hello");
     NSLog(@"World");
     NSLog(@"branch2");
+    NSLog(@"new");
 }
 
 - (void)didReceiveMemoryWarning {
