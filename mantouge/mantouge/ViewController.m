@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"Hello");
     NSLog(@"World");
+    NSLog(@"branch2");
 }
 
 - (void)didReceiveMemoryWarning {
